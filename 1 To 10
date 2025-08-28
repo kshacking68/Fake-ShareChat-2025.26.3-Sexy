@@ -30,7 +30,7 @@
   
   
   
-  "Update_Type": "true",
+  "Update_Type": "false",
   
   "New_Version": "1.5",
   
@@ -38,7 +38,7 @@
   
   
   
-  "isCancelable": "true",
+  "isCancelable": "false",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
